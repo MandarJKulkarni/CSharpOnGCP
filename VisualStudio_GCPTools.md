@@ -11,3 +11,4 @@ After the Visual Studio is launched, you have to click on Tools -> Google Cloud 
 Then login to the console.cloud.google.com using your active account on Google Cloud Platform.
 
 After successful login, you should see the project name and your name's icon in the top-right corner of visual studio.
+Now you can deploy the service into the selected Google Cloud Project.
